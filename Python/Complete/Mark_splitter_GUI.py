@@ -1,6 +1,3 @@
-import tkinter.filedialog
-
-
 try :
     import math
     import random
